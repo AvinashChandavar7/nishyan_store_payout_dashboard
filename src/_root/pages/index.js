@@ -1,0 +1,13 @@
+export { default as Home } from './Home.jsx';
+export { default as Dashboard } from './Dashboard.jsx';
+export { default as Orders } from './Orders.jsx';
+export { default as Products } from './Products.jsx';
+export { default as Delivery } from './Delivery.jsx';
+export { default as Marketing } from './Marketing.jsx';
+export { default as Analytics } from './Analytics.jsx';
+export { default as Payments } from './Payments.jsx';
+export { default as Tools } from './Tools.jsx';
+export { default as Discounts } from './Discounts.jsx';
+export { default as Appearance } from './Appearance.jsx';
+export { default as Audience } from './Audience.jsx';
+export { default as Plugins } from './Plugins.jsx';
